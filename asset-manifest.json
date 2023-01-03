@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ro-hitmali.github.io/csb-nirnum/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ro-hitmali.github.io/csb-nirnum/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://ro-hitmali.github.io/csb-nirnum/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://ro-hitmali.github.io/csb-nirnum/static/js/runtime-main.7b59e4f6.js",
+    "runtime-main.js.map": "https://ro-hitmali.github.io/csb-nirnum/static/js/runtime-main.7b59e4f6.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://ro-hitmali.github.io/csb-nirnum/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://ro-hitmali.github.io/csb-nirnum/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://ro-hitmali.github.io/csb-nirnum/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ro-hitmali.github.io/csb-nirnum/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://ro-hitmali.github.io/csb-nirnum/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b59e4f6.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
